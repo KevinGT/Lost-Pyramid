@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parser()
+comment0.text=\r\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\r\n
+comment1.params=
+comment1.target=Command\ getCommand()
+comment1.text=\r\n\ @return\ The\ next\ command\ from\ the\ user.\r\n
+comment2.params=
+comment2.target=void\ showCommands()
+comment2.text=\r\n\ Calls\ the\ showAll()\ method\ in\ the\ CommandWord\ class.\ The\ showAll()\r\n\ methods\ is\ situated\ there\ as\ demonstrates\ good\ class\ cohesion\ for\ CommandWords.\ Parser\r\n\ simply\ acts\ as\ a\ parser\ for\ the\ Game\ class\ to\ access\ the\ printed\ command\ words\ from\ the\ \r\n\ CommandWords\ class\ without\ being\ directly\ coupled\ to\ it.\r\n\ \r\n\ calls\ the\ showAll()\ method\ in\ the\ CommandWord\ class\r\n
+numComments=3
