@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Player(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n\ \r\n\ @param\ name\ in\ case\ we\ want\ to\ store\ a\ player\ name\ in\ a\ future\ iteration\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ method\ to\ return\ name\r\n\ \r\n\ @return\ returns\ name\r\n
+comment2.params=playerName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ method\ to\ set\ player\ name\r\n\ \r\n\ @param\ is\ the\ player\ name\r\n
+comment3.params=oneToRemove
+comment3.target=void\ addItem(Item)
+comment3.text=\r\n\ This\ method\ receives\ the\ call\ from\ the\ take()\ method\ in\ the\ Room\ class\r\n\ and\ add\ the\ item\ picked\ up\ to\ the\ HashSet\ bag\r\n\ \r\n\ @param\ Item\ oneToRemove\ is\ the\ item\ being\ added\ to\ HashSet\ bag\r\n
+comment4.params=
+comment4.target=java.lang.String\ getBagString()
+comment4.text=\r\n\ this\ method\ iterates\ through\ the\ HashSet\ bag\ and\ prints\ out\ \r\n\ the\ list\ of\ items\ held\ in\ the\ player\ bag.\r\n\ \r\n\ @return\ \ returns\ a\ string\ listing\ the\ items\ in\ the\ players\ bag\r\n
+numComments=5
